@@ -1,5 +1,5 @@
 
-From the Edgar website itself: https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm <br>
+From the Edgar website itself: <br>
 "The EDGAR indexes list the following information for each filing: Company Name, Form Type, CIK (Central Index Key), Date Filed, and File Name (including folder path).
 <br>
 Four types of indexes are available. The company, form, and master indexes contain the same information sorted differently.
